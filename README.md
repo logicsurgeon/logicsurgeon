@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=46F767&center=true&multiline=true&width=435&height=70&lines=Welcome+to+my+GITHUB!;I'm+Logicsurgeon." alt="Typing SVG" />
   </a>
 </p>
-
+<br>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
