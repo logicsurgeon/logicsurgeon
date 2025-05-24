@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Beginner-gray?style=for-the-badge"/>
 </p>
-
+<br>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=logicsurgeon&show_icons=true&theme=default&title_color=3498db&text_color=333&bg_color=ffffff&hide_title=false&hide_rank=false&count_private=true" width="500"/>
 </p>
